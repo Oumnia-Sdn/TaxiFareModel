@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oumniasadaouni/code/Oumnia-Sdn/TaxiFareModel/mlruns/1/d46c378ef81244f087f76b5122d30f30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d46c378ef81244f087f76b5122d30f30
+run_uuid: d46c378ef81244f087f76b5122d30f30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629233955438
+status: 1
+tags: []
+user_id: unknown
